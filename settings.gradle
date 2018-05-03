@@ -1,0 +1,6 @@
+rootProject.name = 'springLearning'
+include 'xmlconfig'
+include 'javaconfig'
+include 'common'
+include 'app'
+

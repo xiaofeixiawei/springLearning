@@ -1,0 +1,7 @@
+dependencies {
+    compile project(':javaconfig'),
+            project(':xmlconfig')
+
+    testCompile "org.springframework:spring-test:$spring_version"
+
+}
